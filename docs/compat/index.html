@@ -45,16 +45,14 @@ h1 span{color:var(--accent)}
   background:none; border:0; color:var(--dim); font-size:1.3rem;
   padding:6px 10px; cursor:pointer; line-height:1;
 }
-/* filtros: rolagem horizontal no celular */
+/* filtros: quebram em linhas para todos ficarem visiveis de cara */
 .chips{
-  display:flex; gap:8px; overflow-x:auto; padding:10px 0 2px;
-  scrollbar-width:none; -webkit-overflow-scrolling:touch;
+  display:flex; flex-wrap:wrap; gap:6px; padding:10px 0 2px;
 }
-.chips::-webkit-scrollbar{display:none}
 .chip{
-  flex:0 0 auto; padding:7px 13px; border-radius:999px; cursor:pointer;
+  flex:0 1 auto; padding:6px 10px; border-radius:999px; cursor:pointer;
   background:var(--card); border:1px solid var(--line);
-  color:var(--dim); font-size:.82rem; white-space:nowrap;
+  color:var(--dim); font-size:.76rem; white-space:nowrap;
 }
 .chip[aria-pressed="true"]{background:var(--accent); border-color:var(--accent); color:#07121f; font-weight:600}
 .chip i{font-style:normal; opacity:.75; margin-left:5px}
@@ -155,12 +153,17 @@ const KEY = g => g[g.length-1];
 
 let filtro = -1;   // -1 = todos
 
-// chips: Todos + um por status existente
+// chips: Todos + um por status existente.
+// Rotulo curto para caberem todos na tela do celular; o nome completo
+// fica no title/aria-label.
+const CURTO = {'Officially supported':'Supported'};
 const usados = [...new Set(DATA.map(g=>g[1]))].sort((a,b)=>a-b);
-const chips = [[-1,'All',DATA.length]].concat(
-  usados.map(i => [i, STATUS[i], DATA.filter(g=>g[1]===i).length]));
-chipBox.innerHTML = chips.map(([i,rot,n]) =>
-  `<button class="chip" data-s="${i}" aria-pressed="${i===-1}">${rot}<i>${n}</i></button>`
+const chips = [[-1,'All','All',DATA.length]].concat(
+  usados.map(i => [i, CURTO[STATUS[i]] || STATUS[i], STATUS[i],
+                   DATA.filter(g=>g[1]===i).length]));
+chipBox.innerHTML = chips.map(([i,rot,titulo,n]) =>
+  `<button class="chip" data-s="${i}" aria-pressed="${i===-1}"` +
+  ` title="${titulo}" aria-label="${titulo}, ${n} games">${rot}<i>${n}</i></button>`
 ).join('');
 chipBox.addEventListener('click', e => {
   const b = e.target.closest('.chip'); if(!b) return;
