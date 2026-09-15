@@ -6,6 +6,9 @@ Automatically switches the Xbox Original emulator (xefu) on an RGH/JTAG
 Xbox 360 based on which game you select in Aurora. No menus, no manual
 swapping — just pick a game and play.
 
+> 🔎 **[Browse the compatibility list](https://pablorigueto.github.io/xefuauto/compat/)**
+> — all 1024 games, searchable and filterable, no download needed.
+>
 > 🇧🇷 **Português:** [LEIA-ME.md](docs/pt-br/LEIA-ME.md) ·
 > [Guia de configuração](docs/pt-br/COMO-CONFIGURAR.md) ·
 > [Tabela editável](docs/pt-br/TABELA.md)
