@@ -1,0 +1,14 @@
+# Binarios do emulador: nunca converter fim de linha (corromperia os arquivos)
+*.xex binary
+*.jpeg binary
+*.jpg binary
+*.png binary
+
+# Texto: normaliza no repo, entrega no formato certo por plataforma
+*.md text eol=lf
+*.py text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.lua text eol=crlf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
