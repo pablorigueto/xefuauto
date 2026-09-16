@@ -1,0 +1,5793 @@
+{
+ "41430001": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "41430002": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "41430003": {
+  "genres": [
+   "Fighting",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "41430004": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "41430005": {
+  "genres": [
+   "Platform"
+  ],
+  "players": 1
+ },
+ "41430006": {
+  "players": 2
+ },
+ "41430007": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4143000A": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "4143000B": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "4143000C": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4143000D": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4143000E": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4143000F": {
+  "genres": [
+   "Fighting",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "41430010": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "41430013": {
+  "players": 4
+ },
+ "41430014": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "41430016": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "41430017": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "41430018": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "41430019": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "4143001A": {
+  "genres": [
+   "Fighting",
+   "Platform",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4143001B": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4143001C": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4143001D": {
+  "genres": [
+   "Fighting",
+   "Sport"
+  ]
+ },
+ "4143001F": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "41440002": {
+  "genres": [
+   "Music"
+  ]
+ },
+ "41480002": {
+  "genres": [
+   "Simulator",
+   "Strategy"
+  ],
+  "players": 1
+ },
+ "41500001": {
+  "genres": [
+   "Role-playing (RPG)"
+  ]
+ },
+ "41510001": {
+  "genres": [
+   "Simulator"
+  ]
+ },
+ "41510002": {
+  "genres": [
+   "Simulator"
+  ]
+ },
+ "41510003": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 2
+ },
+ "41540001": {
+  "genres": [
+   "Racing"
+  ]
+ },
+ "41540002": {
+  "genres": [
+   "Role-playing (RPG)"
+  ]
+ },
+ "41540003": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 1
+ },
+ "41540004": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "41560001": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "41560002": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 1
+ },
+ "41560003": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "41560004": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "41560005": {
+  "genres": [
+   "Hack and slash"
+  ],
+  "players": 1
+ },
+ "41560006": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "41560007": {
+  "genres": [
+   "Fighting"
+  ]
+ },
+ "41560008": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "41560009": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "4156000A": {
+  "genres": [
+   "Racing"
+  ]
+ },
+ "4156000B": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4156000D": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "4156000E": {
+  "genres": [
+   "Fighting",
+   "Shooter",
+   "Racing",
+   "Adventure"
+  ]
+ },
+ "41560010": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 2
+ },
+ "41560014": {
+  "genres": [
+   "Hack and slash"
+  ],
+  "players": 1
+ },
+ "41560017": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "41560018": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ]
+ },
+ "41560019": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Sport",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4156001A": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "4156001B": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4156001E": {
+  "genres": [
+   "Role-playing (RPG)"
+  ]
+ },
+ "4156001F": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "41560020": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "41560022": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "41560026": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "41560027": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4156002A": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4156002B": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4156002D": {
+  "genres": [
+   "Racing",
+   "Role-playing (RPG)",
+   "Sport",
+   "Adventure"
+  ]
+ },
+ "41560030": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 1
+ },
+ "41560035": {
+  "genres": [
+   "Hack and slash"
+  ]
+ },
+ "41560037": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ]
+ },
+ "41560038": {
+  "players": 1
+ },
+ "4156003A": {
+  "players": 1
+ },
+ "4156003B": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4156003C": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "4156003D": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 1
+ },
+ "4156003E": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Sport",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4156003F": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 1
+ },
+ "41560040": {
+  "genres": [
+   "Simulator",
+   "Sport",
+   "Strategy"
+  ],
+  "players": 1
+ },
+ "41560041": {
+  "genres": [
+   "Simulator"
+  ],
+  "players": 1
+ },
+ "41560042": {
+  "genres": [
+   "Shooter",
+   "Sport"
+  ],
+  "players": 1
+ },
+ "41560045": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ]
+ },
+ "41560047": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash"
+  ]
+ },
+ "41560048": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 4
+ },
+ "41560049": {
+  "genres": [
+   "Sport",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "4156004B": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4156004D": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 1
+ },
+ "4156004E": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4156004F": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 1
+ },
+ "41560050": {
+  "players": 1
+ },
+ "41560051": {
+  "players": 1
+ },
+ "41560052": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 1
+ },
+ "41560054": {
+  "genres": [
+   "Turn-based strategy (TBS)",
+   "Card & Board Game"
+  ],
+  "players": 1
+ },
+ "41560055": {
+  "genres": [
+   "Platform",
+   "Adventure",
+   "Indie"
+  ],
+  "players": 2
+ },
+ "41560057": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "41560058": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "4156005B": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4156005C": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "4156005D": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4156005E": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ]
+ },
+ "41570001": {
+  "genres": [
+   "Fighting",
+   "Hack and slash"
+  ]
+ },
+ "41590002": {
+  "genres": [
+   "Adventure"
+  ]
+ },
+ "41590004": {
+  "genres": [
+   "Puzzle",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "42410001": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 4
+ },
+ "42410002": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "42420002": {
+  "players": 2
+ },
+ "424D0001": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "424D0002": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "424D0003": {
+  "genres": [
+   "Platform"
+  ],
+  "players": 1
+ },
+ "424D0006": {
+  "players": 1
+ },
+ "42520001": {
+  "genres": [
+   "Strategy",
+   "Visual Novel"
+  ]
+ },
+ "42530001": {
+  "players": 1
+ },
+ "42530004": {
+  "genres": [
+   "Role-playing (RPG)"
+  ]
+ },
+ "42530005": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "42530006": {
+  "players": 4
+ },
+ "42530007": {
+  "genres": [
+   "Shooter",
+   "Puzzle",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "42530009": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4253000A": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4253000B": {
+  "genres": [
+   "Racing",
+   "Sport",
+   "Hack and slash"
+  ],
+  "players": 4
+ },
+ "4253000C": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4253000F": {
+  "genres": [
+   "Simulator",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Card & Board Game"
+  ],
+  "players": 1
+ },
+ "42530011": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "42530012": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "42530014": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 8
+ },
+ "42550004": {
+  "genres": [
+   "Platform",
+   "Racing",
+   "Arcade"
+  ]
+ },
+ "42560001": {
+  "players": 4
+ },
+ "42560002": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "42560003": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "42570001": {
+  "genres": [
+   "Fighting",
+   "Racing",
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "43430001": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "43430002": {
+  "genres": [
+   "Simulator",
+   "Strategy",
+   "Tactical"
+  ],
+  "players": 1
+ },
+ "43430003": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "43430005": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "43430007": {
+  "players": 2
+ },
+ "43430008": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 2
+ },
+ "43430009": {
+  "genres": [
+   "Simulator",
+   "Strategy"
+  ],
+  "players": 10
+ },
+ "4343000B": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "4343000C": {
+  "genres": [
+   "Strategy",
+   "Turn-based strategy (TBS)"
+  ],
+  "players": 1
+ },
+ "4343000E": {
+  "genres": [
+   "Racing",
+   "Simulator"
+  ],
+  "players": 2
+ },
+ "4343000F": {
+  "genres": [
+   "Fighting",
+   "Arcade"
+  ]
+ },
+ "43430011": {
+  "genres": [
+   "Platform",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "43430013": {
+  "genres": [
+   "Fighting",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "43430014": {
+  "genres": [
+   "Shooter",
+   "Puzzle",
+   "Arcade"
+  ]
+ },
+ "43430015": {
+  "genres": [
+   "Fighting",
+   "Hack and slash"
+  ],
+  "players": 2
+ },
+ "43430016": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "43430018": {
+  "genres": [
+   "Fighting",
+   "Shooter",
+   "Role-playing (RPG)",
+   "Strategy",
+   "Adventure"
+  ],
+  "players": 3
+ },
+ "43430019": {
+  "genres": [
+   "Fighting",
+   "Shooter",
+   "Racing",
+   "Role-playing (RPG)",
+   "Strategy",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "434B0001": {
+  "players": 4
+ },
+ "434D0001": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "434D0002": {
+  "players": 4
+ },
+ "434D0003": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "434D0004": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "434D0006": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "434D0008": {
+  "genres": [
+   "Adventure"
+  ]
+ },
+ "434D000D": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "434D000F": {
+  "genres": [
+   "Simulator",
+   "Sport",
+   "Strategy"
+  ],
+  "players": 2
+ },
+ "434D0010": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "434D0011": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "434D0024": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "434D0029": {
+  "genres": [
+   "Music"
+  ],
+  "players": 1
+ },
+ "434D002A": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "434D002B": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "434D0046": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "434D0047": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "434D004E": {
+  "players": 4
+ },
+ "434D0050": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "434D0054": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "434D005A": {
+  "genres": [
+   "Shooter",
+   "Simulator"
+  ]
+ },
+ "434D005B": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "43560001": {
+  "genres": [
+   "Fighting",
+   "Hack and slash"
+  ],
+  "players": 1
+ },
+ "43560005": {
+  "genres": [
+   "Puzzle",
+   "Strategy"
+  ],
+  "players": 4
+ },
+ "43560006": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport",
+   "Strategy",
+   "Adventure",
+   "Arcade"
+  ],
+  "players": 6
+ },
+ "43560007": {
+  "genres": [
+   "Shooter",
+   "Strategy",
+   "Tactical"
+  ],
+  "players": 2
+ },
+ "43560008": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "43560009": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4356000A": {
+  "genres": [
+   "Pinball"
+  ],
+  "players": 4
+ },
+ "4356000D": {
+  "genres": [
+   "Puzzle",
+   "Simulator",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Card & Board Game"
+  ]
+ },
+ "4356000E": {
+  "players": 4
+ },
+ "43560011": {
+  "genres": [
+   "Quiz"
+  ],
+  "players": 4
+ },
+ "44430002": {
+  "genres": [
+   "Puzzle",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "44430003": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "44430004": {
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ],
+  "players": 1
+ },
+ "44580001": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "45410001": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410002": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 1
+ },
+ "45410003": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410004": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "45410005": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410007": {
+  "players": 4
+ },
+ "45410009": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "4541000A": {
+  "genres": [
+   "Fighting",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4541000B": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541000E": {
+  "players": 1
+ },
+ "45410010": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "45410011": {
+  "genres": [
+   "Fighting",
+   "Shooter",
+   "Racing"
+  ],
+  "players": 4
+ },
+ "45410012": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "45410013": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "45410014": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "45410015": {
+  "genres": [
+   "Adventure"
+  ]
+ },
+ "45410017": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410019": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541001A": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "4541001B": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541001C": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541001D": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541001E": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410021": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "45410026": {
+  "players": 4
+ },
+ "45410027": {
+  "genres": [
+   "Sport",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "45410028": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "45410029": {
+  "genres": [
+   "Platform",
+   "Adventure",
+   "Indie"
+  ]
+ },
+ "4541002D": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4541002E": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Tactical"
+  ],
+  "players": 4
+ },
+ "4541002F": {
+  "genres": [
+   "Simulator"
+  ]
+ },
+ "45410030": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410031": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410032": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "45410035": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410036": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410037": {
+  "players": 1
+ },
+ "45410038": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410039": {
+  "players": 1
+ },
+ "4541003A": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541003B": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541003C": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4541003D": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4541003E": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "4541003F": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "45410041": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "45410042": {
+  "genres": [
+   "Shooter",
+   "Sport",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "45410043": {
+  "genres": [
+   "Simulator",
+   "Strategy"
+  ]
+ },
+ "45410044": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410045": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "45410047": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "45410048": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410049": {
+  "genres": [
+   "Fighting",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541004A": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "4541004B": {
+  "genres": [
+   "Fighting",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4541004C": {
+  "players": 1
+ },
+ "4541004D": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541004E": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541004F": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410050": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410051": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410052": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410053": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "45410054": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "45410055": {
+  "players": 2
+ },
+ "45410056": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "45410057": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410058": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541005A": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "4541005B": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "4541005C": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4541005D": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "4541005E": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "4541005F": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Tactical"
+  ],
+  "players": 2
+ },
+ "45410060": {
+  "genres": [
+   "Simulator",
+   "Strategy"
+  ],
+  "players": 2
+ },
+ "45410061": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "45410062": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "45410063": {
+  "genres": [
+   "Platform",
+   "Racing",
+   "Adventure",
+   "Indie"
+  ]
+ },
+ "45410065": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "45410066": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "4541006D": {
+  "genres": [
+   "Shooter",
+   "Platform",
+   "Adventure"
+  ]
+ },
+ "45410070": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "45410072": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410074": {
+  "players": 4
+ },
+ "45410075": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410076": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 6
+ },
+ "45410077": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 3
+ },
+ "45410078": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541007A": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541007C": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541007D": {
+  "genres": [
+   "Shooter",
+   "Racing",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4541007E": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "45410080": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410082": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ]
+ },
+ "45410083": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "45410085": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410086": {
+  "genres": [
+   "Fighting",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "45410087": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "4541008B": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4541008D": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541008E": {
+  "genres": [
+   "Simulator",
+   "Sport",
+   "Strategy"
+  ],
+  "players": 1
+ },
+ "45410090": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410091": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "45410094": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541009C": {
+  "players": 4
+ },
+ "4541009E": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "4541009F": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "454100A1": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "454100A2": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "454100A3": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "454100A4": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "454100A5": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "454100A6": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "454100AB": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "454100AC": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4541023B": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "45410389": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4541038A": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 2
+ },
+ "4541038B": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Simulator",
+   "Strategy",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "45430001": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "45430002": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "45430004": {
+  "genres": [
+   "Shooter",
+   "Simulator"
+  ],
+  "players": 2
+ },
+ "454C0001": {
+  "players": 2
+ },
+ "454D0002": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 1
+ },
+ "454D0004": {
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Strategy"
+  ]
+ },
+ "454D0005": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "454D0007": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "454D0009": {
+  "genres": [
+   "Racing",
+   "Simulator"
+  ],
+  "players": 8
+ },
+ "454D000D": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "454D0016": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "454D0017": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 1
+ },
+ "454D001C": {
+  "genres": [
+   "Shooter",
+   "Platform",
+   "Puzzle",
+   "Racing",
+   "Strategy",
+   "Arcade"
+  ]
+ },
+ "454D001D": {
+  "genres": [
+   "Pinball"
+  ]
+ },
+ "454D001E": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "454D001F": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "454D0020": {
+  "genres": [
+   "Racing",
+   "Sport",
+   "Arcade"
+  ],
+  "players": 8
+ },
+ "454D0022": {
+  "genres": [
+   "Fighting",
+   "Shooter",
+   "Puzzle",
+   "Racing",
+   "Role-playing (RPG)",
+   "Simulator",
+   "Sport",
+   "Strategy",
+   "Adventure",
+   "Arcade"
+  ]
+ },
+ "45530001": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "45530002": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 1
+ },
+ "45530004": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "45530005": {
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)"
+  ],
+  "players": 1
+ },
+ "45530006": {
+  "players": 1
+ },
+ "45530008": {
+  "genres": [
+   "Shooter",
+   "Real Time Strategy (RTS)",
+   "Strategy",
+   "Tactical",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "45530009": {
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ],
+  "players": 1
+ },
+ "4553000A": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "4553000C": {
+  "genres": [
+   "Fighting",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 1
+ },
+ "4553000D": {
+  "genres": [
+   "Fighting",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4553000E": {
+  "genres": [
+   "Racing"
+  ]
+ },
+ "4553000F": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "45530011": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "45530012": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "45530013": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "45530014": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 1
+ },
+ "45530016": {
+  "genres": [
+   "Fighting",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "45530018": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 16
+ },
+ "45530019": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "4553001A": {
+  "genres": [
+   "Simulator",
+   "Sport",
+   "Strategy"
+  ],
+  "players": 1
+ },
+ "4553001D": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "464C0002": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "46530002": {
+  "genres": [
+   "Hack and slash"
+  ]
+ },
+ "46530003": {
+  "genres": [
+   "Strategy"
+  ],
+  "players": 1
+ },
+ "46530004": {
+  "genres": [
+   "Hack and slash"
+  ]
+ },
+ "46530006": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "47560001": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 2
+ },
+ "47560003": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "47560004": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "47560009": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "4756000A": {
+  "genres": [
+   "Shooter",
+   "Strategy"
+  ],
+  "players": 1
+ },
+ "4756000B": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "48450001": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "48450004": {
+  "players": 1
+ },
+ "48450005": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "48500001": {
+  "players": 1
+ },
+ "48500005": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "48550001": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 2
+ },
+ "48570001": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ]
+ },
+ "49410001": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "49470001": {
+  "genres": [
+   "Racing"
+  ]
+ },
+ "49470004": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "49470005": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "49470006": {
+  "genres": [
+   "Fighting",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "49470007": {
+  "genres": [
+   "Racing"
+  ]
+ },
+ "49470009": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4947000B": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "4947000D": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ]
+ },
+ "4947000E": {
+  "genres": [
+   "Fighting",
+   "Real Time Strategy (RTS)"
+  ],
+  "players": 2
+ },
+ "4947000F": {
+  "genres": [
+   "Strategy"
+  ],
+  "players": 4
+ },
+ "49470010": {
+  "genres": [
+   "Shooter",
+   "Simulator"
+  ],
+  "players": 2
+ },
+ "49470011": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "49470012": {
+  "players": 4
+ },
+ "49470013": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "49470015": {
+  "genres": [
+   "Puzzle",
+   "Racing",
+   "Strategy"
+  ],
+  "players": 2
+ },
+ "49470016": {
+  "genres": [
+   "Adventure"
+  ]
+ },
+ "4947001B": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4947001C": {
+  "genres": [
+   "Racing"
+  ]
+ },
+ "4947001F": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "49470022": {
+  "genres": [
+   "Fighting",
+   "Shooter",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "49470024": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "49470025": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "49470026": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 2
+ },
+ "49470027": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4947002E": {
+  "genres": [
+   "Simulator",
+   "Strategy"
+  ]
+ },
+ "49470034": {
+  "genres": [
+   "Racing"
+  ]
+ },
+ "49470038": {
+  "genres": [
+   "Shooter",
+   "Racing"
+  ],
+  "players": 1
+ },
+ "49470039": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 4
+ },
+ "4947003B": {
+  "genres": [
+   "Fighting",
+   "Shooter"
+  ]
+ },
+ "4947003C": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "4947003D": {
+  "genres": [
+   "Strategy",
+   "Quiz"
+  ],
+  "players": 4
+ },
+ "4947003E": {
+  "genres": [
+   "Racing",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "49470073": {
+  "genres": [
+   "Fighting",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "49470074": {
+  "genres": [
+   "Role-playing (RPG)"
+  ],
+  "players": 1
+ },
+ "49470075": {
+  "genres": [
+   "Racing"
+  ]
+ },
+ "49470079": {
+  "players": 4
+ },
+ "4947007A": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "4947007B": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4947007C": {
+  "genres": [
+   "Fighting",
+   "Shooter",
+   "Hack and slash"
+  ],
+  "players": 1
+ },
+ "4947007D": {
+  "genres": [
+   "Racing",
+   "Strategy",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "4947007F": {
+  "genres": [
+   "Shooter",
+   "Racing"
+  ],
+  "players": 1
+ },
+ "494C0006": {
+  "genres": [
+   "Adventure",
+   "Visual Novel"
+  ]
+ },
+ "494F0003": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "49500008": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash"
+  ],
+  "players": 2
+ },
+ "4950000A": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "49580001": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4A410001": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "4A410002": {
+  "genres": [
+   "Role-playing (RPG)"
+  ],
+  "players": 2
+ },
+ "4A410004": {
+  "genres": [
+   "Puzzle",
+   "Strategy"
+  ],
+  "players": 2
+ },
+ "4A410005": {
+  "genres": [
+   "Real Time Strategy (RTS)",
+   "Role-playing (RPG)",
+   "Strategy"
+  ],
+  "players": 2
+ },
+ "4A410006": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "4A410007": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4A570002": {
+  "genres": [
+   "Strategy",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4A570003": {
+  "genres": [
+   "Platform",
+   "Racing",
+   "Adventure"
+  ]
+ },
+ "4A570009": {
+  "genres": [
+   "Simulator"
+  ]
+ },
+ "4A57000A": {
+  "players": 4
+ },
+ "4B420001": {
+  "genres": [
+   "Strategy",
+   "Hack and slash",
+   "Quiz",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4B420002": {
+  "genres": [
+   "Puzzle"
+  ],
+  "players": 2
+ },
+ "4B420004": {
+  "genres": [
+   "Adventure"
+  ]
+ },
+ "4B420005": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4B420006": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4B420007": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "4B490002": {
+  "players": 2
+ },
+ "4B4B0001": {
+  "genres": [
+   "Adventure"
+  ]
+ },
+ "4B4B0002": {
+  "genres": [
+   "Adventure"
+  ]
+ },
+ "4B4B0003": {
+  "genres": [
+   "Shooter",
+   "Visual Novel"
+  ]
+ },
+ "4B4E0001": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ]
+ },
+ "4B4E0002": {
+  "genres": [
+   "Simulator"
+  ],
+  "players": 1
+ },
+ "4B4E0003": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4B4E0004": {
+  "genres": [
+   "Adventure"
+  ]
+ },
+ "4B4E0005": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4B4E0006": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4B4E0007": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4B4E000B": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 1
+ },
+ "4B4E0010": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4B4E0012": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4B4E0013": {
+  "genres": [
+   "Platform"
+  ],
+  "players": 1
+ },
+ "4B4E0019": {
+  "genres": [
+   "Music"
+  ],
+  "players": 4
+ },
+ "4B4E001A": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "4B4E001B": {
+  "genres": [
+   "Hack and slash"
+  ],
+  "players": 2
+ },
+ "4B4E001C": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4B4E001E": {
+  "genres": [
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Card & Board Game"
+  ],
+  "players": 2
+ },
+ "4B4E001F": {
+  "genres": [
+   "Adventure"
+  ]
+ },
+ "4B4E0020": {
+  "genres": [
+   "Fighting"
+  ]
+ },
+ "4B4E0021": {
+  "genres": [
+   "Music"
+  ],
+  "players": 4
+ },
+ "4B4E0023": {
+  "genres": [
+   "Racing",
+   "Hack and slash"
+  ]
+ },
+ "4B4E0024": {
+  "genres": [
+   "Platform",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "4B4E0025": {
+  "players": 8
+ },
+ "4B4E0027": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "4B4E0029": {
+  "genres": [
+   "Music"
+  ],
+  "players": 4
+ },
+ "4B4E002C": {
+  "genres": [
+   "Platform"
+  ],
+  "players": 4
+ },
+ "4B4E002D": {
+  "players": 1
+ },
+ "4B4E002E": {
+  "genres": [
+   "Music",
+   "Simulator"
+  ],
+  "players": 8
+ },
+ "4B4E002F": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4B4E0030": {
+  "players": 4
+ },
+ "4B4E0037": {
+  "genres": [
+   "Music"
+  ],
+  "players": 4
+ },
+ "4B4E0038": {
+  "genres": [
+   "Fighting",
+   "Platform",
+   "Role-playing (RPG)",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "4B4F0002": {
+  "genres": [
+   "Shooter",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4B4F0003": {
+  "genres": [
+   "Tactical",
+   "Hack and slash"
+  ],
+  "players": 2
+ },
+ "4B4F0004": {
+  "genres": [
+   "Tactical",
+   "Hack and slash"
+  ],
+  "players": 2
+ },
+ "4B4F0006": {
+  "genres": [
+   "Hack and slash"
+  ]
+ },
+ "4B4F0007": {
+  "genres": [
+   "Tactical",
+   "Hack and slash"
+  ],
+  "players": 2
+ },
+ "4B4F0008": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ]
+ },
+ "4B550001": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy"
+  ]
+ },
+ "4C410001": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "4C410003": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ]
+ },
+ "4C410004": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "4C410005": {
+  "genres": [
+   "Simulator",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "4C410006": {
+  "genres": [
+   "Simulator"
+  ],
+  "players": 2
+ },
+ "4C410007": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4C410008": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Turn-based strategy (TBS)"
+  ],
+  "players": 4
+ },
+ "4C410009": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ]
+ },
+ "4C41000B": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "4C41000D": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4C41000F": {
+  "genres": [
+   "Fighting",
+   "Role-playing (RPG)",
+   "Strategy",
+   "Adventure"
+  ]
+ },
+ "4C410011": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 2
+ },
+ "4C410013": {
+  "genres": [
+   "Shooter",
+   "Tactical",
+   "Adventure"
+  ]
+ },
+ "4C410014": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Adventure"
+  ]
+ },
+ "4C410017": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "4C41001A": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "4C41001F": {
+  "players": 2
+ },
+ "4C410022": {
+  "genres": [
+   "Simulator",
+   "Strategy"
+  ]
+ },
+ "4C530002": {
+  "players": 2
+ },
+ "4D440004": {
+  "genres": [
+   "Fighting"
+  ]
+ },
+ "4D450001": {
+  "genres": [
+   "Strategy",
+   "Adventure"
+  ]
+ },
+ "4D490003": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "4D490006": {
+  "genres": [
+   "Point-and-click",
+   "Puzzle",
+   "Adventure"
+  ]
+ },
+ "4D490008": {
+  "genres": [
+   "Point-and-click",
+   "Puzzle",
+   "Adventure"
+  ]
+ },
+ "4D49000B": {
+  "genres": [
+   "Point-and-click",
+   "Puzzle",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4D49000D": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Strategy",
+   "Tactical"
+  ]
+ },
+ "4D4A0001": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4D4A0002": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "4D4A0003": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4D4A0008": {
+  "genres": [
+   "Shooter",
+   "Platform"
+  ],
+  "players": 1
+ },
+ "4D4A0009": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4D4A000B": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4D4A000C": {
+  "genres": [
+   "Puzzle"
+  ]
+ },
+ "4D4A000D": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4D4A000F": {
+  "genres": [
+   "Hack and slash"
+  ],
+  "players": 1
+ },
+ "4D4A0011": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 2
+ },
+ "4D4A0012": {
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4D4A0013": {
+  "genres": [
+   "Hack and slash"
+  ],
+  "players": 4
+ },
+ "4D4A0014": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4D4A0017": {
+  "genres": [
+   "Strategy"
+  ],
+  "players": 4
+ },
+ "4D4D0001": {
+  "genres": [
+   "Simulator",
+   "Sport",
+   "Turn-based strategy (TBS)",
+   "Card & Board Game"
+  ],
+  "players": 1
+ },
+ "4D500002": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "4D530001": {
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Strategy",
+   "Adventure"
+  ]
+ },
+ "4D530002": {
+  "genres": [
+   "Arcade"
+  ],
+  "players": 4
+ },
+ "4D530003": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "4D530004": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "4D530005": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D530006": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "4D530007": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4D53000A": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4D53000B": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D53000C": {
+  "players": 4
+ },
+ "4D53000D": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4D53000F": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D530010": {
+  "genres": [
+   "Fighting",
+   "Racing"
+  ],
+  "players": 1
+ },
+ "4D530011": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D530013": {
+  "genres": [
+   "Platform"
+  ],
+  "players": 1
+ },
+ "4D530014": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 2
+ },
+ "4D530015": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "4D530017": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 8
+ },
+ "4D53001E": {
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ],
+  "players": 4
+ },
+ "4D530021": {
+  "genres": [
+   "Simulator",
+   "Arcade"
+  ],
+  "players": 4
+ },
+ "4D530023": {
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4D530027": {
+  "genres": [
+   "Puzzle",
+   "Strategy"
+  ]
+ },
+ "4D530028": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D53002A": {
+  "genres": [
+   "Racing",
+   "Simulator"
+  ],
+  "players": 2
+ },
+ "4D53002E": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 1
+ },
+ "4D530030": {
+  "genres": [
+   "Simulator"
+  ]
+ },
+ "4D530031": {
+  "genres": [
+   "Fighting",
+   "Hack and slash"
+  ],
+  "players": 4
+ },
+ "4D530032": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ]
+ },
+ "4D530034": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4D530035": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D530036": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4D530039": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D530041": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4D530045": {
+  "players": 4
+ },
+ "4D530046": {
+  "genres": [
+   "Strategy",
+   "Adventure",
+   "Card & Board Game"
+  ],
+  "players": 2
+ },
+ "4D53004A": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "4D53004B": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "4D53004D": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D53004E": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 10
+ },
+ "4D530050": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ]
+ },
+ "4D530051": {
+  "genres": [
+   "Shooter",
+   "Platform"
+  ],
+  "players": 2
+ },
+ "4D530053": {
+  "genres": [
+   "Platform",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4D53005D": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D53005F": {
+  "genres": [
+   "Platform"
+  ]
+ },
+ "4D530064": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "4D530065": {
+  "genres": [
+   "Shooter",
+   "Platform",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "4D53006B": {
+  "genres": [
+   "Shooter",
+   "Simulator"
+  ],
+  "players": 2
+ },
+ "4D53006D": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4D53006E": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4D530084": {
+  "genres": [
+   "Racing"
+  ]
+ },
+ "4D5300D1": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4D5300D2": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D5300D3": {
+  "genres": [
+   "Adventure"
+  ]
+ },
+ "4D5300D4": {
+  "genres": [
+   "Racing"
+  ]
+ },
+ "4D5380CD": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "4D570001": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D570002": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "4D570003": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D570004": {
+  "genres": [
+   "Racing"
+  ]
+ },
+ "4D570005": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "4D570006": {
+  "genres": [
+   "Shooter",
+   "Arcade"
+  ],
+  "players": 2
+ },
+ "4D570007": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "4D570008": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4D570009": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 1
+ },
+ "4D57000A": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D57000B": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D57000C": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 2
+ },
+ "4D57000D": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4D57000E": {
+  "genres": [
+   "Hack and slash"
+  ],
+  "players": 4
+ },
+ "4D570010": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 3
+ },
+ "4D570011": {
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Strategy",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4D570012": {
+  "genres": [
+   "Shooter",
+   "Simulator"
+  ],
+  "players": 1
+ },
+ "4D570014": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D570015": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "4D570016": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4D570017": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D570018": {
+  "genres": [
+   "Shooter",
+   "Racing"
+  ]
+ },
+ "4D570019": {
+  "genres": [
+   "Fighting",
+   "Puzzle"
+  ],
+  "players": 2
+ },
+ "4D57001A": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D57001B": {
+  "genres": [
+   "Racing"
+  ]
+ },
+ "4D57001C": {
+  "genres": [
+   "Racing",
+   "Sport",
+   "Adventure",
+   "Arcade"
+  ],
+  "players": 4
+ },
+ "4D57001D": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4D570020": {
+  "genres": [
+   "Fighting",
+   "Shooter",
+   "Puzzle",
+   "Racing",
+   "Sport",
+   "Adventure",
+   "Arcade"
+  ],
+  "players": 4
+ },
+ "4D570021": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 2
+ },
+ "4D570022": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "4D570024": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "4D570025": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "4D570026": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4D570029": {
+  "genres": [
+   "Fighting",
+   "Hack and slash"
+  ],
+  "players": 2
+ },
+ "4D57002C": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "4D57002D": {
+  "genres": [
+   "Racing",
+   "Arcade"
+  ],
+  "players": 4
+ },
+ "4D57002E": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "4D570032": {
+  "genres": [
+   "Platform",
+   "Sport",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4D570034": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 8
+ },
+ "4D570037": {
+  "genres": [
+   "Shooter",
+   "Racing"
+  ]
+ },
+ "4D570038": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "4E4B0001": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 4
+ },
+ "4E4C0002": {
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ],
+  "players": 50
+ },
+ "4E4D0001": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "4E4D0003": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 2
+ },
+ "4E4D0005": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4E4D0006": {
+  "genres": [
+   "Platform",
+   "Racing",
+   "Adventure"
+  ]
+ },
+ "4E4D0007": {
+  "genres": [
+   "Shooter",
+   "Racing",
+   "Arcade"
+  ]
+ },
+ "4E4D0008": {
+  "genres": [
+   "Racing",
+   "Simulator"
+  ]
+ },
+ "4E4D0009": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4E4D000B": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4E4D000C": {
+  "genres": [
+   "Shooter",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "4E4D000F": {
+  "genres": [
+   "Platform"
+  ],
+  "players": 1
+ },
+ "4E4D0013": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "4E4D0015": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4E4D0016": {
+  "genres": [
+   "Shooter",
+   "Arcade"
+  ]
+ },
+ "4E4D0017": {
+  "genres": [
+   "Platform"
+  ]
+ },
+ "4E4D0019": {
+  "players": 1
+ },
+ "4F580001": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "4F580002": {
+  "genres": [
+   "Adventure"
+  ]
+ },
+ "4F580004": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "50430001": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 2
+ },
+ "504C0001": {
+  "genres": [
+   "Shooter",
+   "Simulator"
+  ]
+ },
+ "504C0002": {
+  "genres": [
+   "Real Time Strategy (RTS)",
+   "Role-playing (RPG)",
+   "Strategy",
+   "Hack and slash"
+  ],
+  "players": 2
+ },
+ "504C0006": {
+  "genres": [
+   "Real Time Strategy (RTS)",
+   "Strategy",
+   "Hack and slash"
+  ],
+  "players": 1
+ },
+ "52410003": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "52440001": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 1
+ },
+ "53410002": {
+  "genres": [
+   "Fighting",
+   "Arcade"
+  ],
+  "players": 2
+ },
+ "53410003": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 16
+ },
+ "53430003": {
+  "genres": [
+   "Shooter",
+   "Adventure",
+   "Indie"
+  ],
+  "players": 1
+ },
+ "53430005": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53430006": {
+  "players": 4
+ },
+ "53430007": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "5343000A": {
+  "genres": [
+   "Shooter",
+   "Strategy",
+   "Tactical"
+  ],
+  "players": 4
+ },
+ "5343000C": {
+  "genres": [
+   "Shooter",
+   "Strategy",
+   "Tactical"
+  ],
+  "players": 4
+ },
+ "5343000E": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "5343000F": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "534300F7": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "534300F9": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 8
+ },
+ "534300FA": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "534300FB": {
+  "genres": [
+   "Shooter",
+   "Racing",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "534300FD": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "534300FF": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "53430100": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 1
+ },
+ "53450002": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53450003": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "53450004": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 1
+ },
+ "53450006": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53450007": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "5345000A": {
+  "players": 4
+ },
+ "5345000B": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "5345000E": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "5345000F": {
+  "genres": [
+   "Platform",
+   "Role-playing (RPG)",
+   "Adventure"
+  ]
+ },
+ "53450010": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53450011": {
+  "genres": [
+   "Shooter",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53450013": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53450014": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "53450017": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53450018": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "5345001A": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "5345001D": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash",
+   "Adventure"
+  ]
+ },
+ "53450021": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "53450023": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53450024": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53450025": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "53450026": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53450027": {
+  "genres": [
+   "Music",
+   "Puzzle",
+   "Strategy"
+  ]
+ },
+ "53450028": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53450029": {
+  "genres": [
+   "Fighting",
+   "Hack and slash"
+  ],
+  "players": 4
+ },
+ "5345002A": {
+  "genres": [
+   "Strategy",
+   "Turn-based strategy (TBS)"
+  ],
+  "players": 4
+ },
+ "5345002B": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ]
+ },
+ "53450030": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53450031": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53450032": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53450033": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53450035": {
+  "genres": [
+   "Strategy"
+  ],
+  "players": 4
+ },
+ "53450036": {
+  "genres": [
+   "Racing"
+  ]
+ },
+ "53450037": {
+  "players": 2
+ },
+ "53450038": {
+  "genres": [
+   "Platform",
+   "Puzzle"
+  ]
+ },
+ "5345003C": {
+  "genres": [
+   "Platform"
+  ],
+  "players": 2
+ },
+ "53450081": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "53450086": {
+  "genres": [
+   "Shooter",
+   "Platform",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "53450087": {
+  "genres": [
+   "Shooter",
+   "Racing",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "53450088": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 6
+ },
+ "5345008B": {
+  "genres": [
+   "Hack and slash"
+  ]
+ },
+ "534E0002": {
+  "genres": [
+   "Shooter",
+   "Arcade"
+  ],
+  "players": 2
+ },
+ "534E0003": {
+  "genres": [
+   "Fighting"
+  ]
+ },
+ "534E0004": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 2
+ },
+ "534E0005": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "534E0006": {
+  "genres": [
+   "Fighting"
+  ]
+ },
+ "534E0007": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 2
+ },
+ "534E0008": {
+  "players": 2
+ },
+ "534E000A": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 2
+ },
+ "53500001": {
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)"
+  ],
+  "players": 2
+ },
+ "53530003": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "53530006": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "53538003": {
+  "players": 4
+ },
+ "53538005": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "53540001": {
+  "players": 4
+ },
+ "53550007": {
+  "genres": [
+   "Adventure",
+   "Visual Novel"
+  ]
+ },
+ "54430001": {
+  "genres": [
+   "Fighting",
+   "Arcade"
+  ],
+  "players": 4
+ },
+ "54430003": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "54430007": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "54430009": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "5443000A": {
+  "players": 1
+ },
+ "5443000D": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "5443000E": {
+  "genres": [
+   "Sport",
+   "Strategy",
+   "Adventure",
+   "Arcade"
+  ]
+ },
+ "54440006": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "544B0004": {
+  "players": 2
+ },
+ "544D0001": {
+  "genres": [
+   "Platform",
+   "Puzzle"
+  ],
+  "players": 1
+ },
+ "544D0002": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "544D0003": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "544D0004": {
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Arcade",
+   "Card & Board Game"
+  ],
+  "players": 4
+ },
+ "544D0007": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ]
+ },
+ "544D0008": {
+  "genres": [
+   "Puzzle",
+   "Strategy",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "544D000A": {
+  "genres": [
+   "Fighting",
+   "Simulator",
+   "Sport"
+  ]
+ },
+ "544D000B": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "544D000D": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "544D000F": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "544D0010": {
+  "genres": [
+   "Shooter",
+   "Simulator"
+  ],
+  "players": 1
+ },
+ "544D0011": {
+  "genres": [
+   "Shooter"
+  ]
+ },
+ "544D0012": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "544D0013": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash",
+   "Adventure"
+  ]
+ },
+ "54510001": {
+  "genres": [
+   "Adventure"
+  ]
+ },
+ "54510003": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "54510004": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "54510005": {
+  "genres": [
+   "Shooter",
+   "Strategy",
+   "Adventure"
+  ]
+ },
+ "54510007": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "54510008": {
+  "players": 4
+ },
+ "54510009": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "5451000A": {
+  "genres": [
+   "Puzzle",
+   "Strategy"
+  ]
+ },
+ "5451000B": {
+  "genres": [
+   "Puzzle",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "5451000D": {
+  "genres": [
+   "Fighting",
+   "Sport"
+  ]
+ },
+ "5451000E": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ]
+ },
+ "5451000F": {
+  "genres": [
+   "Fighting",
+   "Puzzle",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "54510010": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "54510016": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "54510018": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "5451001A": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "5451001D": {
+  "genres": [
+   "Point-and-click",
+   "Puzzle",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "5451001E": {
+  "players": 1
+ },
+ "5451001F": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ]
+ },
+ "54510020": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "54510021": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "54510022": {
+  "players": 2
+ },
+ "54510023": {
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Role-playing (RPG)",
+   "Adventure"
+  ]
+ },
+ "54510024": {
+  "genres": [
+   "Fighting",
+   "Sport"
+  ]
+ },
+ "54510025": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "54510026": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "54510027": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ]
+ },
+ "54510028": {
+  "genres": [
+   "Platform",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "54510089": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "5451008B": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ]
+ },
+ "545100ED": {
+  "genres": [
+   "Racing",
+   "Simulator"
+  ],
+  "players": 2
+ },
+ "545100EF": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "545100F2": {
+  "genres": [
+   "Racing",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "545100F4": {
+  "genres": [
+   "Platform",
+   "Sport",
+   "Adventure"
+  ]
+ },
+ "545100F5": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "545100F6": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "545100F7": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ]
+ },
+ "545100F8": {
+  "genres": [
+   "Real Time Strategy (RTS)",
+   "Simulator",
+   "Strategy"
+  ],
+  "players": 8
+ },
+ "545100FA": {
+  "genres": [
+   "Music"
+  ],
+  "players": 4
+ },
+ "54510105": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "54510106": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "54510109": {
+  "players": 4
+ },
+ "54530002": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 2
+ },
+ "54530005": {
+  "genres": [
+   "Shooter",
+   "Racing",
+   "Simulator"
+  ]
+ },
+ "54540001": {
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "54540003": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "54540004": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "54540005": {
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ],
+  "players": 4
+ },
+ "54540006": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "54540008": {
+  "genres": [
+   "Racing",
+   "Arcade"
+  ],
+  "players": 4
+ },
+ "54540009": {
+  "genres": [
+   "Fighting",
+   "Shooter",
+   "Racing",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "5454000A": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "5454000B": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 2
+ },
+ "5454000C": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "5454000D": {
+  "genres": [
+   "Shooter",
+   "Indie"
+  ]
+ },
+ "5454000E": {
+  "genres": [
+   "Shooter",
+   "Racing",
+   "Simulator",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "54540010": {
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "54540011": {
+  "players": 1
+ },
+ "54540012": {
+  "genres": [
+   "Shooter",
+   "Strategy"
+  ],
+  "players": 8
+ },
+ "54540014": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "54540015": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "54540016": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "54540017": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "54540018": {
+  "genres": [
+   "Simulator"
+  ]
+ },
+ "54540019": {
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ],
+  "players": 1
+ },
+ "5454001A": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ]
+ },
+ "5454001B": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "54540073": {
+  "genres": [
+   "Shooter",
+   "Racing",
+   "Adventure",
+   "Arcade"
+  ]
+ },
+ "54540076": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "54540077": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "54540079": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "5454007B": {
+  "genres": [
+   "Puzzle",
+   "Strategy",
+   "Quiz"
+  ]
+ },
+ "5454007C": {
+  "genres": [
+   "Platform",
+   "Strategy"
+  ],
+  "players": 4
+ },
+ "5454007D": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "5454007E": {
+  "genres": [
+   "Shooter",
+   "Sport"
+  ],
+  "players": 1
+ },
+ "54540081": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "54540083": {
+  "genres": [
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Tactical"
+  ],
+  "players": 2
+ },
+ "54540088": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "54540089": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 6
+ },
+ "5454008A": {
+  "genres": [
+   "Platform"
+  ],
+  "players": 1
+ },
+ "5454008C": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "5454008D": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "5454008F": {
+  "genres": [
+   "Real Time Strategy (RTS)",
+   "Role-playing (RPG)",
+   "Simulator",
+   "Strategy",
+   "Adventure"
+  ]
+ },
+ "54540090": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "54540091": {
+  "genres": [
+   "Simulator",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "54540092": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "54540093": {
+  "genres": [
+   "Shooter",
+   "Sport"
+  ]
+ },
+ "54540096": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "5454009B": {
+  "genres": [
+   "Fighting",
+   "Hack and slash"
+  ]
+ },
+ "5454009C": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 2
+ },
+ "545400A3": {
+  "genres": [
+   "Shooter",
+   "Racing",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "545400A9": {
+  "genres": [
+   "Sport"
+  ]
+ },
+ "545400AB": {
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "545400AD": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "545400AE": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "545400AF": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "545400B0": {
+  "players": 1
+ },
+ "545400B1": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "55530001": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "55530002": {
+  "genres": [
+   "Platform"
+  ]
+ },
+ "55530003": {
+  "genres": [
+   "Fighting",
+   "Arcade"
+  ]
+ },
+ "55530004": {
+  "genres": [
+   "Fighting",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "55530005": {
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ]
+ },
+ "55530006": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Strategy",
+   "Tactical",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "55530007": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Strategy",
+   "Tactical"
+  ],
+  "players": 2
+ },
+ "55530008": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "55530009": {
+  "genres": [
+   "Shooter",
+   "Puzzle"
+  ],
+  "players": 4
+ },
+ "5553000B": {
+  "genres": [
+   "Adventure"
+  ]
+ },
+ "5553000C": {
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ]
+ },
+ "55530011": {
+  "genres": [
+   "Point-and-click",
+   "Puzzle",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "55530012": {
+  "players": 1
+ },
+ "55530013": {
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ]
+ },
+ "55530014": {
+  "genres": [
+   "Fighting",
+   "Sport"
+  ]
+ },
+ "55530016": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "55530018": {
+  "genres": [
+   "Shooter",
+   "Puzzle",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "55530019": {
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ],
+  "players": 4
+ },
+ "5553001C": {
+  "genres": [
+   "Hack and slash"
+  ],
+  "players": 2
+ },
+ "5553001D": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "55530020": {
+  "genres": [
+   "Fighting",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "55530034": {
+  "genres": [
+   "Fighting",
+   "Sport"
+  ],
+  "players": 2
+ },
+ "55530036": {
+  "genres": [
+   "Shooter",
+   "Racing"
+  ],
+  "players": 2
+ },
+ "55530037": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Tactical"
+  ]
+ },
+ "55530039": {
+  "genres": [
+   "Strategy"
+  ],
+  "players": 2
+ },
+ "5553003A": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 1
+ },
+ "5553003B": {
+  "genres": [
+   "Fighting",
+   "Platform",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "5553003C": {
+  "players": 4
+ },
+ "5553003F": {
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "55530040": {
+  "genres": [
+   "Platform"
+  ],
+  "players": 1
+ },
+ "55530041": {
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ]
+ },
+ "55530043": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "55530048": {
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ]
+ },
+ "55530049": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "5553004A": {
+  "players": 1
+ },
+ "5553004B": {
+  "genres": [
+   "Shooter",
+   "Puzzle",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "5553004C": {
+  "genres": [
+   "Fighting",
+   "Shooter",
+   "Puzzle",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "5553004D": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Tactical"
+  ],
+  "players": 4
+ },
+ "55530054": {
+  "genres": [
+   "Shooter",
+   "Simulator",
+   "Strategy",
+   "Tactical"
+  ],
+  "players": 4
+ },
+ "55530056": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 4
+ },
+ "55530057": {
+  "genres": [
+   "Simulator"
+  ],
+  "players": 2
+ },
+ "55530058": {
+  "players": 1
+ },
+ "5553005A": {
+  "genres": [
+   "Shooter",
+   "Strategy",
+   "Tactical"
+  ],
+  "players": 2
+ },
+ "5553005E": {
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ],
+  "players": 2
+ },
+ "5553005F": {
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ]
+ },
+ "55530060": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "55530061": {
+  "players": 4
+ },
+ "56430001": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "56550003": {
+  "genres": [
+   "Platform"
+  ],
+  "players": 1
+ },
+ "56550004": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "56550005": {
+  "genres": [
+   "Hack and slash"
+  ],
+  "players": 4
+ },
+ "56550007": {
+  "genres": [
+   "Fighting",
+   "Role-playing (RPG)",
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "56550008": {
+  "players": 1
+ },
+ "56550009": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "5655000A": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "5655000D": {
+  "genres": [
+   "Shooter",
+   "Puzzle",
+   "Adventure"
+  ]
+ },
+ "5655000E": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash"
+  ],
+  "players": 1
+ },
+ "56550010": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "56550011": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "56550013": {
+  "players": 2
+ },
+ "56550014": {
+  "players": 1
+ },
+ "56550015": {
+  "genres": [
+   "Platform",
+   "Racing",
+   "Adventure"
+  ],
+  "players": 4
+ },
+ "56550016": {
+  "genres": [
+   "Fighting",
+   "Hack and slash"
+  ],
+  "players": 1
+ },
+ "56550017": {
+  "genres": [
+   "Shooter",
+   "Sport"
+  ],
+  "players": 4
+ },
+ "56550018": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "56550019": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 2
+ },
+ "5655001A": {
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash"
+  ],
+  "players": 2
+ },
+ "5655001F": {
+  "genres": [
+   "Racing"
+  ],
+  "players": 4
+ },
+ "56550021": {
+  "genres": [
+   "Simulator",
+   "Strategy"
+  ],
+  "players": 1
+ },
+ "56550022": {
+  "genres": [
+   "Real Time Strategy (RTS)",
+   "Strategy"
+  ],
+  "players": 1
+ },
+ "56550023": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "56550026": {
+  "players": 1
+ },
+ "56550027": {
+  "genres": [
+   "Adventure"
+  ]
+ },
+ "56550028": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "56550029": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "5655002A": {
+  "genres": [
+   "Sport",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "5655002D": {
+  "genres": [
+   "Fighting",
+   "Hack and slash"
+  ],
+  "players": 4
+ },
+ "5655002F": {
+  "genres": [
+   "Fighting"
+  ],
+  "players": 2
+ },
+ "56550030": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "56550031": {
+  "genres": [
+   "Point-and-click",
+   "Simulator",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "56550034": {
+  "genres": [
+   "Platform"
+  ]
+ },
+ "56550036": {
+  "genres": [
+   "Platform"
+  ],
+  "players": 1
+ },
+ "56550037": {
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Racing"
+  ]
+ },
+ "56550039": {
+  "genres": [
+   "Hack and slash"
+  ]
+ },
+ "5655003F": {
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "56550041": {
+  "genres": [
+   "Platform",
+   "Racing"
+  ],
+  "players": 4
+ },
+ "56550042": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 1
+ },
+ "56550043": {
+  "genres": [
+   "Hack and slash",
+   "Adventure"
+  ],
+  "players": 2
+ },
+ "56550048": {
+  "genres": [
+   "Shooter",
+   "Sport"
+  ],
+  "players": 1
+ },
+ "56550049": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 1
+ },
+ "5655004A": {
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "5655004B": {
+  "genres": [
+   "Platform",
+   "Sport",
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "56560025": {
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ],
+  "players": 4
+ },
+ "56560029": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "57450001": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 1
+ },
+ "57450005": {
+  "genres": [
+   "Adventure"
+  ],
+  "players": 1
+ },
+ "57520001": {
+  "genres": [
+   "Role-playing (RPG)"
+  ],
+  "players": 2
+ },
+ "58490001": {
+  "genres": [
+   "Role-playing (RPG)"
+  ],
+  "players": 1
+ },
+ "58490004": {
+  "genres": [
+   "Role-playing (RPG)"
+  ],
+  "players": 4
+ },
+ "58490005": {
+  "players": 2
+ },
+ "58490007": {
+  "genres": [
+   "Shooter"
+  ],
+  "players": 4
+ },
+ "584D0003": {
+  "players": 1
+ },
+ "58500001": {
+  "genres": [
+   "Hack and slash"
+  ],
+  "players": 1
+ },
+ "58500004": {
+  "genres": [
+   "Platform",
+   "Racing",
+   "Adventure"
+  ]
+ },
+ "5A440001": {
+  "genres": [
+   "Sport"
+  ],
+  "players": 2
+ },
+ "5A440004": {
+  "genres": [
+   "Shooter",
+   "Platform"
+  ],
+  "players": 4
+ }
+}
